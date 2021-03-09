@@ -12,5 +12,12 @@ git add [example].java
 git commit -m "[added message]"
 git push
 
+//Adding collaborators
+Go to settings tab on github
+Click on manage access on sidenav
+Invite Collaborator
+Add "pauwei"
+
+//Appendix
 //Checking where git folder is
 git rev-parse --show-toplevel
