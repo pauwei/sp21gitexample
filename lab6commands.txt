@@ -1,0 +1,16 @@
+//First Go
+git init
+git config --global user.name "[Your Name]"
+git config --global user.email "[Your Email]"
+git add [example].java
+git commit -m "[initial commit]"
+git remote add origin [urlpathtogit]
+git push -u origin master
+
+//Second Go
+git add [example].java
+git commit -m "[added message]"
+git push
+
+//Checking where git folder is
+git rev-parse --show-toplevel
